@@ -1,7 +1,7 @@
 # Carlos Olivares Croc
 ## Electronic Engineer | IoT Specialist
 
-Hey there! 👋 I'm Carlos, an Electronic Engineer with a passion for all things IoT. I love tinkering with microcontrollers, diving into Back-end setups, and making things. Let's connect and geek out over tech!
+Hey there! 👋 I'm Carlos, an Electronic Engineer with a passion for all things IoT. I love tinkering with microcontrollers, diving into Back-end setups and exploring new technologies. Let's connect and geek out over tech!
 
 ### About Me
 - 📍 **Location:** Viña del Mar, Chile
